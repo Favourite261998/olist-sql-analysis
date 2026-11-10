@@ -1,2 +1,2 @@
 # olist-sql-analysis
-SQL abalysis of a Brazilian e-commerce dataset
+SQL Analysis of a Brazilian E-Commerce dataset
